@@ -1,0 +1,8 @@
+{
+    "serverPort": "80",
+    "database": {
+        "host": 'localhost',
+        "user": 'dbuser',
+        "password": 's3kreee7'
+    }
+}
